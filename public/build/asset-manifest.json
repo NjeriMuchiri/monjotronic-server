@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.71b70f17.chunk.css",
-    "main.js": "/static/js/main.5259589c.chunk.js",
-    "main.js.map": "/static/js/main.5259589c.chunk.js.map",
+    "main.js": "/static/js/main.5fe003b1.chunk.js",
+    "main.js.map": "/static/js/main.5fe003b1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3c1a216e.js",
     "runtime-main.js.map": "/static/js/runtime-main.3c1a216e.js.map",
-    "static/js/2.a24c0a23.chunk.js": "/static/js/2.a24c0a23.chunk.js",
-    "static/js/2.a24c0a23.chunk.js.map": "/static/js/2.a24c0a23.chunk.js.map",
+    "static/js/2.c3cc84c9.chunk.js": "/static/js/2.c3cc84c9.chunk.js",
+    "static/js/2.c3cc84c9.chunk.js.map": "/static/js/2.c3cc84c9.chunk.js.map",
     "static/js/3.6ff504bd.chunk.js": "/static/js/3.6ff504bd.chunk.js",
     "static/js/3.6ff504bd.chunk.js.map": "/static/js/3.6ff504bd.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.71b70f17.chunk.css.map": "/static/css/main.71b70f17.chunk.css.map",
-    "static/js/2.a24c0a23.chunk.js.LICENSE.txt": "/static/js/2.a24c0a23.chunk.js.LICENSE.txt",
+    "static/js/2.c3cc84c9.chunk.js.LICENSE.txt": "/static/js/2.c3cc84c9.chunk.js.LICENSE.txt",
     "static/media/ZKTeco.801dfb26.png": "/static/media/ZKTeco.801dfb26.png",
     "static/media/backup.294e01ca.jpeg": "/static/media/backup.294e01ca.jpeg",
     "static/media/biometricsolutions.f5d95433.jpg": "/static/media/biometricsolutions.f5d95433.jpg",
@@ -35,8 +35,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3c1a216e.js",
-    "static/js/2.a24c0a23.chunk.js",
+    "static/js/2.c3cc84c9.chunk.js",
     "static/css/main.71b70f17.chunk.css",
-    "static/js/main.5259589c.chunk.js"
+    "static/js/main.5fe003b1.chunk.js"
   ]
 }
