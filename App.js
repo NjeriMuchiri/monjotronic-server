@@ -20,7 +20,7 @@ app.get('/', (req, res) => {
 router.get(['/', '/*'], function(req, res, next) {
     res.sendFile(path.resolve(__dirname, 'public', 'build', 'index.html'));
 });
-app.listen(PORT, () => console.log(`The server is running on port ${PORT}`))
+app.listen(PORT, () => console.log(`The server is running on port ${PORT} `))
 
 
 module.exports = app
