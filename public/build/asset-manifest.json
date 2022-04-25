@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71b70f17.chunk.css",
+    "main.js": "/static/js/main.5259589c.chunk.js",
+    "main.js.map": "/static/js/main.5259589c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3c1a216e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3c1a216e.js.map",
+    "static/js/2.a24c0a23.chunk.js": "/static/js/2.a24c0a23.chunk.js",
+    "static/js/2.a24c0a23.chunk.js.map": "/static/js/2.a24c0a23.chunk.js.map",
+    "static/js/3.6ff504bd.chunk.js": "/static/js/3.6ff504bd.chunk.js",
+    "static/js/3.6ff504bd.chunk.js.map": "/static/js/3.6ff504bd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.71b70f17.chunk.css.map": "/static/css/main.71b70f17.chunk.css.map",
+    "static/js/2.a24c0a23.chunk.js.LICENSE.txt": "/static/js/2.a24c0a23.chunk.js.LICENSE.txt",
+    "static/media/ZKTeco.801dfb26.png": "/static/media/ZKTeco.801dfb26.png",
+    "static/media/backup.294e01ca.jpeg": "/static/media/backup.294e01ca.jpeg",
+    "static/media/biometricsolutions.f5d95433.jpg": "/static/media/biometricsolutions.f5d95433.jpg",
+    "static/media/App.css": "/static/media/offgridsolar.24cc75d9.jpg",
+    "static/media/cctv1.976bce69.jpg": "/static/media/cctv1.976bce69.jpg",
+    "static/media/cctvcamera1.d92426b1.jpeg": "/static/media/cctvcamera1.d92426b1.jpeg",
+    "static/media/dahua.2f7b4f30.png": "/static/media/dahua.2f7b4f30.png",
+    "static/media/electricFence.2a77014e.jpg": "/static/media/electricFence.2a77014e.jpg",
+    "static/media/electricfence1.c94d7b2e.jpg": "/static/media/electricfence1.c94d7b2e.jpg",
+    "static/media/fence3.815ee040.jpeg": "/static/media/fence3.815ee040.jpeg",
+    "static/media/lite.cb402eb8.jpg": "/static/media/lite.cb402eb8.jpg",
+    "static/media/logo.91f93d2c.png": "/static/media/logo.91f93d2c.png",
+    "static/media/magneticlock.168d029e.jpg": "/static/media/magneticlock.168d029e.jpg",
+    "static/media/microsoft.4881c100.png": "/static/media/microsoft.4881c100.png",
+    "static/media/microtik.ed903bee.png": "/static/media/microtik.ed903bee.png",
+    "static/media/netis.f329ebff.png": "/static/media/netis.f329ebff.png",
+    "static/media/servicing.b5a59935.jpg": "/static/media/servicing.b5a59935.jpg",
+    "static/media/solar.afa61cd5.jpg": "/static/media/solar.afa61cd5.jpg",
+    "static/media/tronic.a3059244.png": "/static/media/tronic.a3059244.png",
+    "static/media/videodoor.3559d928.jpg": "/static/media/videodoor.3559d928.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c1a216e.js",
+    "static/js/2.a24c0a23.chunk.js",
+    "static/css/main.71b70f17.chunk.css",
+    "static/js/main.5259589c.chunk.js"
+  ]
+}
